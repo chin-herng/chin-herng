@@ -1,6 +1,6 @@
 ## hi there 👋
 
-im chin herng, year 4 computer science undergrad from NUS.
-- 🔭 im currently focusing on teaching and research in the area of theoretical computer science.
-- 📫 how to reach me: chinherng@u.nus.edu
-- ⚡ fun fact: rabbits
+im chin herng, a fresh computer science graduate from NUS.
+- 🔭 im currently focusing on theoretical computer science research.
+- 📫 how to reach me: chongahzong@gmail.com
+- ⚡ fun fact: bunnies
